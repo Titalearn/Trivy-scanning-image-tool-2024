@@ -1,0 +1,2 @@
+choco install trivy ( this is for windows)
+brew install trivy (this is for mac)
